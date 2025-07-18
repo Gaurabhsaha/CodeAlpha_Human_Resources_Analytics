@@ -29,6 +29,6 @@ The main goals of this HR analytics project are:
 - **Power Query**
 - **Data Modeling**
 
-![image altr]()
+![image altr](https://github.com/Gaurabhsaha/CodeAlpha_Human_Resources_Analytics/blob/c8236697b827379ba92eb340c893533ceee80f8b/Screenshot%20(35).png)
 ![image altr]()
 ![image altr]()
