@@ -29,4 +29,6 @@ The main goals of this HR analytics project are:
 - **Power Query**
 - **Data Modeling**
 
-
+![image altr]()
+![image altr]()
+![image altr]()
