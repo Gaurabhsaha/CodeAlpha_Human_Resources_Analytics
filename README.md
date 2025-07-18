@@ -31,4 +31,4 @@ The main goals of this HR analytics project are:
 
 ![image altr](https://github.com/Gaurabhsaha/CodeAlpha_Human_Resources_Analytics/blob/c8236697b827379ba92eb340c893533ceee80f8b/Screenshot%20(35).png)
 ![image altr](https://github.com/Gaurabhsaha/CodeAlpha_Human_Resources_Analytics/blob/df8ff0597edc1efdbe12deb2d0a95fff6322b7cb/Screenshot%20(36).png)
-![image altr]()
+![image altr](https://github.com/Gaurabhsaha/CodeAlpha_Human_Resources_Analytics/blob/0006768d4cd1cbaa0a0fe4ebdccc209fddc15dfa/Screenshot%20(40).png)
